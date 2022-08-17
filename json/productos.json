@@ -1,0 +1,24 @@
+[
+    {
+    "nombre": "The Breakers",
+    "genero": "accion",
+    "tipo": "manhwa",
+    "imagen": "the_braker.jpg"
+
+    },
+    {
+
+    "nombre": "Nano List",
+    "genero": "comedia",
+    "tipo": "manhwa",
+    "imagen": "Nano_List.jpg"
+
+    },
+    {
+    "nombre": "the braker eternal force",
+    "genero": "Romance",
+    "tipo": "manhwa",
+    "imagen": "the_braker_eternal_force.jpg"
+    
+    }
+]
